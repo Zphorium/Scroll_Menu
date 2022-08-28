@@ -1,0 +1,114 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.first{
+    text-align: center;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-masthead.jpg);
+    background-size: cover;
+    padding: 14rem 0;
+
+}
+.first h1{
+    font-size: 88px;
+    color: #212529;
+}
+.first h3{
+    color: #212529;
+    font-size: 28px;
+    margin-bottom: 50px;
+}
+.first a{
+    background-color: #1D809F;
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 4px;
+    font-size: 1rem;
+    color: #fff;
+    transition: 0.5s;
+}
+.first a:hover{
+    background-color: #0b4f63;
+
+}
+.second{
+    text-align: center;
+    margin-bottom: 70px;
+}
+.second h1{
+    margin-top: 80px;
+    font-size: 2rem;
+    padding-bottom: 7px;
+    margin-bottom: 30px;
+    text-decoration: none;
+}
+.second p{
+    text-decoration: none;
+    font-size: 1.25rem;
+    font-weight: 300;
+    padding-bottom: 50px;
+}
+.second #another{
+    text-decoration: none;
+    background-color: #212529;
+    color: white;
+    padding: 15px;
+    border-radius: 4px;
+    
+}
+.third{
+    padding-top: 20px;
+    background-image: url(https://startbootstrap.github.io/startbootstrap-stylish-portfolio/assets/img/bg-callout.jpg);
+    background-size: cover;
+    text-align: center;
+    padding: 12rem 0;
+}
+.third h1{
+    font-size: 56px;
+    color: #212529;
+    margin-bottom: 40px;
+}
+.third a{
+    text-decoration: none;
+    background-color: #1D809F;
+    color: #fff;
+    border-radius: 4px;
+    padding: 20px 40px;
+    transition: .5s;
+
+}
+.third a:hover{
+    background-color: #0b4f63;
+}
+.fourth{
+    background-color: #1D809F;
+    text-align: center;
+    padding: 8rem 0;
+}
+.fourth h1{
+    margin-bottom: 30px;
+    color: #fff;
+    
+}
+.fourth a{
+    text-decoration: none;
+    padding: 20px 40px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.fourth .left{
+    color: black;
+    background-color: #fff;
+    margin-right: 10px;
+
+}
+.fourth .right {
+    color: #fff;
+    background-color: #000;
+    margin-left: 10px;
+}
+.map iframe{
+    width: 100%;
+    cursor: move;
+}

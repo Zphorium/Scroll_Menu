@@ -1,0 +1,127 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.first{
+
+    display: flex;
+    width: 100%;
+    background-color: #212529;
+    
+}
+.first h1{
+    margin-left: 100px ;
+}
+
+.first h1{
+    text-align: left;
+    color: aliceblue;
+    padding: 20px 0px;
+    font-size: 20px;
+    font-style: initial;    
+}
+
+.second{
+    background-image: url(https://images3.alphacoders.com/979/97969.jpg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: center;
+    color: black;   
+    font-size: 20px;
+    padding-top: 6rem;
+    padding-bottom: 6rem;
+}
+.second p{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.second a{
+    background-color: white;
+    color: black;
+    border-radius: 2px;
+    text-decoration:none;
+    padding: 7px;
+}
+.third{
+    width: 70%;
+    margin: auto;
+    text-align: left;
+    color: black;
+    margin-left: 400px;    
+}
+.third h1{
+
+    font-size: 2rem;
+    margin-bottom: 1.5rem;   
+}
+.third p{
+   
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    color: #00000085;
+}
+#down {
+    margin-top: 100px;
+    padding-bottom: 100px;
+   } 
+
+.third ul{
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    margin-left: 20px;
+    font-weight: 300;
+    color: rgba(0, 0, 0, 0.788);
+}
+.fourth{
+    background-image: url(https://images.unsplash.com/photo-1528164344705-47542687000d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8M3x8fGVufDB8fHx8&w=1000&q=80);
+    background-position: bottom;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: left;
+    color: rgb(255, 255, 255);
+    padding: 70px;
+        
+}
+.fourth h1{
+    margin-left: 320px;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+
+}
+.fourth p{
+    margin-left: 320px;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+.fiveth{
+    background-image: url(https://www.hisglobal.com.tr/assets/images/uploads/1604301963.jpg);
+    background-position: left;
+    background-size: cover;
+    background-attachment: fixed;
+    text-align: left;
+    color: rgb(3, 3, 3);
+    padding: 70px;
+    
+}
+.fiveth h1{
+    margin-left: 320px;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+
+}
+.fiveth p{
+    margin-left: 320px;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    font-weight: 700;
+     
+}
+.sixth h1{
+    text-align: center;
+    color: aliceblue;
+    background-color: #212529;
+    padding: 20px;
+    font-size: 15px;
+    font-style: oblique;
+}
